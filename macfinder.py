@@ -1,3 +1,6 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
 with open("data.csv", "r") as f:
     database = f.readlines()
 
